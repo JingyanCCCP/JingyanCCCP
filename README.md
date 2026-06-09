@@ -2,7 +2,7 @@
 
 # Hi, I'm Jingyan
 
-I build practical AI tools, data products, and agent workflows.
+AI tools, data products, and agent workflows.
 
 [![GitHub followers](https://img.shields.io/github/followers/JingyanCCCP?style=for-the-badge&logo=github&label=Followers&color=0f766e)](https://github.com/JingyanCCCP)
 [![Profile views](https://komarev.com/ghpvc/?username=JingyanCCCP&style=for-the-badge&color=0f766e)](https://github.com/JingyanCCCP)
@@ -13,9 +13,9 @@ I build practical AI tools, data products, and agent workflows.
 
 I focus on turning messy real-world workflows into usable software. My current interests sit around AI agents, data analysis, automation, and tools that make university life and personal productivity easier.
 
-- Working on **UniLife-OS**, an agent project for better university life
 - Interested in **LLM applications**, **workflow automation**, and **data visualization**
-- Comfortable moving from prototype to usable product with a pragmatic engineering mindset
+- Exploring how agents can help with planning, learning, writing, and day-to-day decisions
+- I like building small but complete tools: clear interface, useful output, and maintainable code
 
 ## Tech Stack
 
@@ -31,12 +31,6 @@ I focus on turning messy real-world workflows into usable software. My current i
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
 </p>
 
-## Featured Work
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [UniLife-OS](https://github.com/JingyanCCCP/UniLife-OS) | Agent system for improving university-life workflows | Python, Streamlit, OpenAI |
-
 ## GitHub Activity
 
 <div align="center">
@@ -49,4 +43,4 @@ I focus on turning messy real-world workflows into usable software. My current i
 ## Connect
 
 - GitHub: [@JingyanCCCP](https://github.com/JingyanCCCP)
-- Projects and experiments are published here as they become useful.
+- Open to thoughtful ideas around agents, productivity tools, and data-driven products.
