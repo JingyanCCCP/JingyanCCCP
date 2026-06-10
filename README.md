@@ -15,14 +15,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&pause=900&color=A6242B&vCenter=true&width=780&height=42&lines=Records+recovered+from+1999%E2%80%A6;Building+LLM+agents+for+a+better+university+life;Python-first.+Still+leveling+up." alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&pause=900&color=A6242B&vCenter=true&width=780&height=42&lines=Records+recovered+from+1999%E2%80%A6;Building+small+systems+that+run+themselves;Python-first.+Still+leveling+up." alt="">
 </div>
 
 ## ★&nbsp; СВОДКА · ABOUT
 
-**Python developer building LLM agents.** Student at **WHU × SUAT** — I like turning messy
-real-life problems into small autonomous systems. 用 Python 把现实里的麻烦，做成会自己跑起来的小系统。
-The one currently eating my time is **[UniLife-OS](https://github.com/JingyanCCCP/UniLife-OS)**.
+**Python developer — into LLM agents and small automations.** Student at **WHU × SUAT**.
+Build-first and curious; I learn by making things (and breaking them). 喜欢边做边学，做坏了再修，慢慢升级。
 
 |  |  |
 |:--|:--|
@@ -46,10 +45,11 @@ English / writing   ██████████████░░░░░░
 
 <div align="center"><img src="./assets/divider-star.svg" width="100%"></div>
 
-## ★&nbsp; ТЕКУЩЕЕ ЗАДАНИЕ · CURRENT ASSIGNMENT
+## ★&nbsp; ПРОЕКТЫ · PROJECTS
 
-**[UniLife-OS](https://github.com/JingyanCCCP/UniLife-OS)** — an agent for a better university life.<br>
-`Python`&nbsp; ·&nbsp; ★ 3&nbsp; ·&nbsp; active&nbsp; ·&nbsp; 为更好的大学生活做的智能体
+**[UniLife-OS](https://github.com/JingyanCCCP/UniLife-OS)** &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; a university-life assistant agent &nbsp;·&nbsp; ★ 3
+<!-- add future projects here as plain one-liners -->
+
 
 <div align="center"><img src="./assets/divider-star.svg" width="100%"></div>
 
